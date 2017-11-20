@@ -1,0 +1,14 @@
+﻿{
+  "dependencies": {
+    "Newtonsoft.Json": "10.0.3",
+    "NETStandard.Library": "1.6.0",
+    "Microsoft.NETCore.Portable.Compatibility": "1.0.1"
+  },
+  "frameworks": {
+    "netstandard1.4": {
+      "imports": [
+        "portable-net45+win8+wpa81+wp8"
+      ]
+    }
+  }
+}

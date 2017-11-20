@@ -24,6 +24,8 @@ Création et affichage au lancement de l'app d'un splashscreen. L'image est dans
 
 ## [Obligatoire] Affichage de la liste infinie
 
+Tu peux ignorer les sections Nouveau(x) et Ancien(s). Si tu gère ce cas, c'est du bonus.
+
 ![alt text](Screenshot_liste.png)
 
 ## [Obligatoire] Affichage du détail d'un résultat
