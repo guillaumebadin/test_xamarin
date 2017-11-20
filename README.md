@@ -24,11 +24,11 @@ Création et affichage au lancement de l'app d'un splashscreen. L'image est dans
 
 ## [Obligatoire] Affichage de la liste infinie
 
-![alt text](https://raw.githubusercontent.com/guillaumebadin/test_xamarin/master/Screenshot_liste.json)
+![alt text](Screenshot_liste.png)
 
 ## [Obligatoire] Affichage du détail d'un résultat
 
-![alt text](https://raw.githubusercontent.com/guillaumebadin/test_xamarin/master/Screenshot_detail.json)
+![alt text](Screenshot_detail.png)
 
 ## [Obligatoire] Reproduction à l'identique du design
 
